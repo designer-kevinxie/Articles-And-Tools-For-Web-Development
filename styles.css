@@ -79,6 +79,7 @@ ul li {
 
 .image_left img {
   width: 100%;
+  max-width:270px;
 }
 
 .title_right {
